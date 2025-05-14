@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "329445704958",
+    "firebase_url": "https://admin-food-ordering-app-b3f0e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "admin-food-ordering-app-b3f0e",
+    "storage_bucket": "admin-food-ordering-app-b3f0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329445704958:android:ddd00e38a796c5b60511af",
+        "android_client_info": {
+          "package_name": "com.example.adminfoodorderingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329445704958-88uiu5raoggtockabjrof3qbt1i8lg4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adminfoodorderingapp",
+            "certificate_hash": "f7dce03864b8b5904f79d6f96c39a8750a569786"
+          }
+        },
+        {
+          "client_id": "329445704958-mgm8l9hc528mjalekinnssnormtftusm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxQJErQNYBbC8DbzrIHnJSZLRPje6IV78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329445704958-mgm8l9hc528mjalekinnssnormtftusm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
